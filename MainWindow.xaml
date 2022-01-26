@@ -35,7 +35,7 @@
         <Button Content="," HorizontalAlignment="Left" Margin="148,410,0,0" VerticalAlignment="Top" Width="50" Background="#FF048DFF" BorderBrush="Black" Height="50" Grid.RowSpan="2" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
         <Button Content="+" HorizontalAlignment="Left" Margin="207,335,0,0" VerticalAlignment="Top" Width="50" Background="#FF048DFF" BorderBrush="Black" Height="75" Grid.RowSpan="2" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
         <Button Content="=" HorizontalAlignment="Left" Margin="207,420,0,0" VerticalAlignment="Top" Width="110" Background="#FF048DFF" BorderBrush="Black" Height="40" Grid.RowSpan="2" MinHeight="25" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
-        <Button  HorizontalAlignment="Left" Margin="148,410,0,0" VerticalAlignment="Top" Width="50" Background="#FF048DFF" BorderBrush="Black" Height="50" Grid.RowSpan="2" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
+        <Button  Content="," HorizontalAlignment="Left" Margin="148,410,0,0" VerticalAlignment="Top" Width="50" Background="#FF048DFF" BorderBrush="Black" Height="50" Grid.RowSpan="2" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
         <Button Content="-" HorizontalAlignment="Left" Margin="267,335,0,0" VerticalAlignment="Top" Width="50" Background="#FF048DFF" BorderBrush="Black" Height="75" Grid.RowSpan="2" FontWeight="Bold" FontSize="22" FontFamily="Tahoma"/>
     </Grid>
 </Window>
